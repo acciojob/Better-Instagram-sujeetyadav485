@@ -1,3 +1,4 @@
+//your code here
 // Get all the draggable divs
 const divs = document.querySelectorAll('.image');
 
