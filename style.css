@@ -1,3 +1,6 @@
+.imge{
+	position:absolute;
+}
 #div1 {
   background-image: url("https://picsum.photos/id/237/200/300");
   height: 300px;
